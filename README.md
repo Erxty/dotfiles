@@ -8,7 +8,9 @@
 
 - vxwm - download the files, replace the default ones in ~/vxwm, "make" and "sudo make clean install".
 
+
 as for the .config files, yk what to do with them. (drop them into your .config directory)
+
 
 cli eyecandy/tools that i like:
 
