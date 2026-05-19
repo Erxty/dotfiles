@@ -2,13 +2,13 @@
 
 ![preview](screenshots/preview.png)
 
-stuff youll need to install for this:
+### stuff youll need to install for this:
 <br />
 
 vxwm, urxvt (vrxt-unicode and urxvt-perls), vesktop, polybar, dunst, slock, flameshot, helium, fastfetch, picom, dmenu, dolphin and kate
 <br />
 
-install:
+### install:
 <br />
 - helium browser - download the folder, go to "manage extensions", turn developer mode on, and add the folder with "load unpacked".
 
@@ -28,12 +28,12 @@ install:
 as for the .config files, yk what to do with them. (drop them into your .config directory)  
 <br />
 
-cli eyecandy/tools that i like:
+#### cli eyecandy/tools that i like:
 
 lavat, btop, cava, asciiquarium, neovim, yazi, tty-clock, and fastfetch.  
 <br />
 
-more:   
+### more:   
 use the "kvantum" theme in qt apps like dolphin and kate. (i was lazy)
 
 install steam millennium and use the "classic steam library" theme.
