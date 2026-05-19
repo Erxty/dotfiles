@@ -10,6 +10,8 @@ install:
 <br />
 - helium browser - download the folder, go to "manage extensions", turn developer mode on, and add the folder with "load unpacked".
 
+- bonjourr homepage - install the bonjourr extension in your browser, go to its settings and import the file.
+
 - vesktop - download the file, open your themes folder, and drop it there.
 
 - urxvt - download the file, move it to your user directory, and type into the terminal "xrdb ~/.Xresources".
