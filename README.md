@@ -19,6 +19,8 @@ install:
 - vxwm - download the files, replace the default ones in ~/vxwm, "make" and "sudo make clean install".
 
 - dmenu scripts - move it to your .local/bin/ directory.
+
+- polybar - if you want to use polybar, youll need to turn off the vxwm bar in config.h and add polybar to the autostart in it aswell.
 <br />
 
 as for the .config files, yk what to do with them. (drop them into your .config directory)  
