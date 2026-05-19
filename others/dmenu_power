@@ -1,0 +1,12 @@
+#!/bin/bash
+result=$(echo -e "Lock\nReboot\nPower off\nLogout" | dmenu)
+
+if [[ "${result}" = "Power off" ]]; then
+  loginctl poweroff -i
+elif [[ "${result}" = "Lock" ]]; then
+  slock
+elif [[ "${result}" = "Reboot" ]]; then
+  loginctl reboot
+elif [[ "${result}" = "Logout" ]]; then
+  loginctl terminate-session $XDG_SESSION_ID
+fi
