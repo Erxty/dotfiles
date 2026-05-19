@@ -8,12 +8,14 @@
 
 - vxwm - download the files, replace the default ones in ~/vxwm, "make" and "sudo make clean install".
 
-as for the .config files, yk what to do with them (drop them into your .config directory)
+as for the .config files, yk what to do with them. (drop them into your .config directory)
 
 more: 
 
-use the "kvantum" theme in qt apps like dolphin and kate.
+use the "kvantum" theme in qt apps like dolphin and kate. (i was lazy)
 
 install steam millennium and use the "classic steam library" theme.
 
 install strawberry player and set the tabbar color to grey.
+
+make your own themes for stuff you use. Main colors that were used are #313131 and #d1d1d1
