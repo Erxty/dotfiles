@@ -1,0 +1,7 @@
+#!/bin/sh
+dmenu_run \
+  -nb '#313131' \
+  -nf '#d1d1d1' \
+  -sb '#414141' \
+  -sf '#d1d1d1' \
+  -fn 'JetBrainsMono Nerd Font:size=10' \
