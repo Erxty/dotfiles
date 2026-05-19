@@ -1,5 +1,11 @@
 # dotfiles
 
+stuff youll need to install for this:
+<br />
+
+vxwm, vesktop, polybar, dunst, flameshot, helium, fastfetch, picom, dmenu, dolphin and kate
+<br />
+
 install:
 <br />
 - helium browser - download the folder, go to "manage extensions", turn developer mode on, and add the folder with "load unpacked".
