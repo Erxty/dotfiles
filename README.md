@@ -10,6 +10,11 @@
 
 as for the .config files, yk what to do with them. (drop them into your .config directory)
 
+cli eyecandy/tools that i like:
+
+lavat, btop, cava, asciiquarium, neovim, yazi, and fastfetch.
+
+
 more: 
 
 use the "kvantum" theme in qt apps like dolphin and kate. (i was lazy)
