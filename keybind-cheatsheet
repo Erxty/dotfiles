@@ -7,6 +7,7 @@ mod + b --                   set layout floating
 mod + n --                   set layout tiling
 mod + m --                   set layout stacking
 mod + shift + q --           quit
+mod + shift + m --           dmenu power menu
 alt + f --                   fullscreen
 alt + c --                   center window
 mod + ctrl + z --            pin window
