@@ -1,0 +1,51 @@
+these are the keybinds for my vxwm config. Not much more to it
+
+the important stuff (except apps and moving):
+mod + d --                   dmenu
+mod + c --                   kill window
+mod + b --                   set layout floating
+mod + n --                   set layout tiling
+mod + m --                   set layout stacking
+mod + shift + q --           quit
+alt + f --                   fullscreen
+alt + c --                   center window
+mod + ctrl + z --            pin window
+
+movement:
+mod + arrows --              move window
+alt + ctrl + arrows --       resize window
+mod + shift + arrows --      move view 
+alt + arrows --              move to other window
+mod + left click --          move when on canvas
+mod + shift + left click --  move when on window
+
+apps:
+mod + q --                   urxvt
+mod + f --                   helium
+mod + e --                   dolphin
+mod + s --                   kate
+
+less important stuff:
+mod + shift + s --           flameshot gui
+mod + shift + a --           flameshot full
+mod + shift + b --           toggle bar (only for the native vxwm bar)
+alt + tab --                 goes through your windows
+alt + shift + tab --         same but backwards
+mod + tab --                 view all workspaces
+mod + space --               switch between last 2 layouts
+mod + shift + 0 --           tag (even idk??)
+mod + y --                   focusmon (i honestly dont know)
+mod + u --                   focusmon (same with this)
+mod + shift + y --           tagmon (idk..)
+mod + shift + u --           tagmon (stop interrogating me)
+mod + r --                   center of the canvas
+
+tiling:
+mod + k --                   moves master window
+mod + l --                   same but backwards
+mod + i --                   sets master width
+mod + o --                   same but backwards
+mod + enter --               switches between masters
+mod + plus --                increase gaps
+mod + minus --               decrease gaps
+mod + shift + plus --        set gaps to default
