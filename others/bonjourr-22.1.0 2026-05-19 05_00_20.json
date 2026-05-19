@@ -1,0 +1,272 @@
+{
+  "about": {
+    "browser": "chrome",
+    "version": "22.1.0"
+  },
+  "showall": true,
+  "lang": "en",
+  "dark": "system",
+  "favicon": "",
+  "tabtitle": "",
+  "greeting": "",
+  "greetingsize": "3",
+  "greetingsmode": "auto",
+  "pagegap": 1,
+  "pagewidth": 1600,
+  "time": true,
+  "main": false,
+  "dateformat": "cn",
+  "quicklinks": true,
+  "textShadow": 0.2,
+  "announcements": "major",
+  "review": -1,
+  "css": "",
+  "hide": {
+    "clock": true,
+    "date": false
+  },
+  "clock": {
+    "size": 1.125,
+    "ampm": false,
+    "analog": true,
+    "seconds": false,
+    "ampmlabel": false,
+    "ampmposition": "top-left",
+    "worldclocks": false,
+    "timezone": "auto"
+  },
+  "linkstyle": "inline",
+  "linktitles": false,
+  "linkbackgrounds": false,
+  "linknewtab": true,
+  "linksrow": "3",
+  "linkiconradius": "1.1",
+  "linkgroups": {
+    "on": false,
+    "selected": "default",
+    "groups": [
+      "default"
+    ],
+    "pinned": [],
+    "synced": []
+  },
+  "backgrounds": {
+    "type": "color",
+    "fadein": 600,
+    "blur": 0,
+    "bright": 1,
+    "frequency": "pause",
+    "color": "#313131",
+    "urls": "",
+    "images": "bonjourr-images-daylight",
+    "videos": "bonjourr-videos-daylight",
+    "mute": true,
+    "queries": {},
+    "texture": {
+      "type": "none"
+    }
+  },
+  "worldclocks": [],
+  "analogstyle": {
+    "face": "none",
+    "hands": "modern",
+    "shape": "round",
+    "border": "#ffff",
+    "background": "#fff2"
+  },
+  "weather": {
+    "city": "downtown-boston",
+    "unit": "metric",
+    "provider": "",
+    "moreinfo": "none",
+    "forecast": "auto",
+    "temperature": "actual",
+    "geolocation": "approximate"
+  },
+  "greetingscustom": {
+    "morning": "",
+    "afternoon": "",
+    "evening": "",
+    "night": ""
+  },
+  "notes": {
+    "on": false,
+    "width": 40,
+    "opacity": 0.1,
+    "align": "left",
+    "text": "## Edit this note!\n\n[ ] With markdown titles, lists, and checkboxes\n\n[ ] Learn more on https://bonjourr.fr/docs/overview#notes"
+  },
+  "searchbar": {
+    "on": true,
+    "opacity": 0.1,
+    "newtab": false,
+    "suggestions": true,
+    "engine": "default",
+    "request": "",
+    "placeholder": ""
+  },
+  "quotes": {
+    "on": false,
+    "type": "classic",
+    "frequency": "day",
+    "author": false,
+    "last": 1779138467078
+  },
+  "pomodoro": {
+    "on": false,
+    "mode": "pomodoro",
+    "pause": 0,
+    "end": 0,
+    "timeFor": {
+      "pomodoro": 1500,
+      "break": 300,
+      "longbreak": 1200
+    },
+    "focus": false,
+    "sound": true,
+    "volume": 0.7,
+    "alarm": "marimba",
+    "history": []
+  },
+  "font": {
+    "size": "14",
+    "family": "",
+    "system": true,
+    "weightlist": [],
+    "weight": "300"
+  },
+  "supporters": {
+    "enabled": true
+  },
+  "move": {
+    "selection": "single",
+    "layouts": {
+      "single": {
+        "grid": [
+          [
+            "time"
+          ],
+          [
+            "quicklinks"
+          ],
+          [
+            "searchbar"
+          ]
+        ],
+        "items": {}
+      }
+    }
+  },
+  "linksamhggj": {
+    "_id": "linksamhggj",
+    "order": 5,
+    "parent": "linksncqbjc",
+    "title": "rom",
+    "url": "https://r-roms.github.io/"
+  },
+  "linkscbjdgk": {
+    "_id": "linkscbjdgk",
+    "order": 0,
+    "parent": "default",
+    "title": "reddit",
+    "url": "https://reddit.com"
+  },
+  "linkscdglmr": {
+    "_id": "linkscdglmr",
+    "order": 0,
+    "parent": "linksncqbjc",
+    "title": "piracy",
+    "url": "https://rentry.org/pgames"
+  },
+  "linkscongbe": {
+    "_id": "linkscongbe",
+    "order": 6,
+    "parent": "default",
+    "title": "void",
+    "url": "https://voidlinux.org/"
+  },
+  "linksfnjlei": {
+    "_id": "linksfnjlei",
+    "order": 6,
+    "parent": "linksncqbjc",
+    "title": "vimm",
+    "url": "https://vimm.net/"
+  },
+  "linksfqbdad": {
+    "_id": "linksfqbdad",
+    "order": 4,
+    "parent": "default",
+    "title": "drive",
+    "url": "https://drive.proton.me/u/0/OytXvoQDtwTnZ6vUZ-rUcCazByy6rPxrb6u2oOgOqa63vt1Se3WekJF184nyE9dsvyoSGCmovIaHleV4XbL8dw==/folder/aRr1OFXF1LCV857I-SGmpIdJN93FhPiJt9_b1Qd5Hdvh-In9kKnbtindNdEkKH98Y8IUlPcrj2IEldDPjgi4ew=="
+  },
+  "linkshlrbjg": {
+    "_id": "linkshlrbjg",
+    "order": 3,
+    "parent": "default",
+    "title": "mail",
+    "url": "https://mail.proton.me/u/2/inbox"
+  },
+  "linksiferjd": {
+    "_id": "linksiferjd",
+    "order": 1,
+    "parent": "default",
+    "title": "youtube",
+    "url": "https://youtube.com"
+  },
+  "linkslbqroe": {
+    "_id": "linkslbqroe",
+    "order": 7,
+    "parent": "linksncqbjc",
+    "title": "miruro",
+    "url": "https://www.miruro.tv/watch/21804/saiki-kusuo-no-nan?ep=1"
+  },
+  "linkslqnjgh": {
+    "_id": "linkslqnjgh",
+    "order": 7,
+    "parent": "default",
+    "title": "suck less",
+    "url": "https://suckless.org"
+  },
+  "linksmccgoc": {
+    "_id": "linksmccgoc",
+    "order": 1,
+    "parent": "linksncqbjc",
+    "title": "fmhy",
+    "url": "https://fmhy.net/"
+  },
+  "linksncqbjc": {
+    "_id": "linksncqbjc",
+    "order": 5,
+    "parent": "default",
+    "title": "piracy",
+    "folder": true
+  },
+  "linksnmkndh": {
+    "_id": "linksnmkndh",
+    "order": 2,
+    "parent": "default",
+    "title": "last.fm",
+    "url": "https://last.fm"
+  },
+  "linksnrccra": {
+    "_id": "linksnrccra",
+    "order": 4,
+    "parent": "linksncqbjc",
+    "title": "the pirate bay",
+    "url": "https://thepiratebay.org/index.html"
+  },
+  "linksnrfgaf": {
+    "_id": "linksnrfgaf",
+    "order": 3,
+    "parent": "linksncqbjc",
+    "title": "tosho",
+    "url": "https://animetosho.org/"
+  },
+  "linksoeagre": {
+    "_id": "linksoeagre",
+    "order": 2,
+    "parent": "linksncqbjc",
+    "title": "steam rip",
+    "url": "https://steamrip.com/"
+  }
+}
