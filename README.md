@@ -13,7 +13,7 @@ as for the .config files, yk what to do with them. (drop them into your .config 
 
 cli eyecandy/tools that i like:
 
-lavat, btop, cava, asciiquarium, neovim, yazi, and fastfetch.
+lavat, btop, cava, asciiquarium, neovim, yazi, tty-clock, and fastfetch.
 
 
 more: 
