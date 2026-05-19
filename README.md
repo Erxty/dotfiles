@@ -8,11 +8,9 @@ urxvt - download the file, move it to your user directory, and type into the ter
 
 vxwm - download the files, replace the default ones in ~/vxwm, "make" and "sudo make clean install".
 
-as for the .config files, yk what to do with them
-(drop them into your .config directory)
+as for the .config files, yk what to do with them (drop them into your .config directory)
 
 more: 
-
 use the "kvantum" theme in qt apps like dolphin and kate.
 
 install steam millennium and use the "classic steam library" theme.
