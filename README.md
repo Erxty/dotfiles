@@ -15,6 +15,8 @@ install:
 - urxvt - download the file, move it to your user directory, and type into the terminal "xrdb ~/.Xresources".
 
 - vxwm - download the files, replace the default ones in ~/vxwm, "make" and "sudo make clean install".
+
+- dmenu power script - move it to your .local/bin/ directory.
 <br />
 
 as for the .config files, yk what to do with them. (drop them into your .config directory)  
