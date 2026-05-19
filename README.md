@@ -3,7 +3,7 @@
 stuff youll need to install for this:
 <br />
 
-vxwm, vesktop, polybar, dunst, flameshot, helium, fastfetch, picom, dmenu, dolphin and kate
+vxwm, vesktop, polybar, dunst, slock, flameshot, helium, fastfetch, picom, dmenu, dolphin and kate
 <br />
 
 install:
