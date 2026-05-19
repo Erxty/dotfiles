@@ -25,3 +25,6 @@ install steam millennium and use the "classic steam library" theme.
 install strawberry player and set the tabbar color to grey.
 
 make your own themes for stuff you use. Main colors that were used are #313131 and #d1d1d1
+
+
+picom config was COMPLETELY made by wh1tepearl, PLEASE dont crucify me PLEASE
