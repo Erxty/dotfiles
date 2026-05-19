@@ -1,0 +1,49 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "logo": {
+        "type": "auto",
+        "source": "/home/vau/.config/fastfetch/logos/ascii-ed-mascot3",
+        "color": {
+                "1": "yellow",
+		    "2": "blackC",
+		    "3": "red",
+		    "4": "white"
+                },
+        "padding": {
+                "top": 2,
+                "left": 2
+                },
+        },
+  "display": {
+	"color": "red"
+  },
+  "modules": [
+        "title",
+        {
+	  "type": "custom",
+	  "format": "---software---"
+	  },
+	  "os",
+        "wm",
+        "kernel",
+        "shell",
+	  {
+	  "type": "custom",
+	  "format": "---hardware---"
+	  },
+        {
+        "type": "cpu",
+        "format": "{name}",
+        },
+	  {
+	  "type": "gpu",
+	  "format": "{name}"
+	  },
+        {
+	  "type": "memory",
+	  "format": "{used} / {total}"
+	  },
+        "separator",
+        "colors"
+        ]
+}
