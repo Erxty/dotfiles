@@ -1,5 +1,7 @@
 # dotfiles
 
+![preview](screenshots/preview.png)
+
 stuff youll need to install for this:
 <br />
 
