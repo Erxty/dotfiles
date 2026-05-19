@@ -18,7 +18,7 @@ install:
 
 - vxwm - download the files, replace the default ones in ~/vxwm, "make" and "sudo make clean install".
 
-- dmenu power script - move it to your .local/bin/ directory.
+- dmenu scripts - move it to your .local/bin/ directory.
 <br />
 
 as for the .config files, yk what to do with them. (drop them into your .config directory)  
